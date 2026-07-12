@@ -9,7 +9,12 @@ GearShift is a peer-to-peer car rental marketplace. This repository contains the
 
 ## Running the frontend
 
-1. Clone the repository and open the folder in your terminal.
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/SamuelMutiso/GROUP-PROJECT-M5.git
+   cd GROUP-PROJECT-M5
+   ```
 2. Install dependencies:
 
    ```
